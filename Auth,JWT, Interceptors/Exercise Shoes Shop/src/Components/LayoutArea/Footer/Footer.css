@@ -1,0 +1,7 @@
+.Footer > p {
+	cursor: pointer;
+}
+
+.Footer > p:hover{
+    color: blue;
+}

@@ -1,0 +1,6 @@
+.Users > table, th, td {
+    margin: auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+    direction: ltr;
+}

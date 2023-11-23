@@ -1,0 +1,9 @@
+.Products > img {
+	width: 150px;
+    height: 150px;
+}
+
+.Products > table, .Products > td {
+    margin: auto;
+    padding: 10px;
+}
